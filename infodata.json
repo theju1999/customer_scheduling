@@ -1,0 +1,96 @@
+{
+	"customer_scheduling": [{
+			"schedule_time": "2021-05-18 12:39:29",
+			"slot": "L",
+			"item_date": "2021-05-19"
+		},{
+			"schedule_time": "2021-05-18 12:47:53",
+			"slot": "D",
+			"item_date": "2021-05-19"
+		},{
+			"schedule_time": "2021-05-18 13:55:22",
+			"slot": "D",
+			"item_date": "2021-05-19"
+		},{
+			"schedule_time": "2021-05-18 16:09:15",
+			"slot": "L",
+			"item_date": "2021-05-19"
+		},{
+			"schedule_time": "2021-05-18 16:11:55",
+			"slot": "L",
+			"item_date": "2021-05-19"
+		},{
+			"schedule_time": "2021-05-18 16:39:45",
+			"slot": "L",
+			"item_date": "2021-05-19"
+		},{
+			"schedule_time": "2021-05-18 16:55:42",
+			"slot": "D",
+			"item_date": "2021-05-19"
+		},{
+			"schedule_time": "2021-05-18 17:35:30",
+			"slot": "L",
+			"item_date": "2021-05-19"
+		},{
+			"schedule_time": "2021-05-18 17:52:08",
+			"slot": "L",
+			"item_date": "2021-05-19"
+		},{
+			"schedule_time": "2021-05-19 18:42:26",
+			"slot": "L",
+			"item_date": "2021-05-22"
+		},{
+			"schedule_time": "2021-05-19 21:32:10",
+			"slot": "D",
+			"item_date": "2021-05-20"
+		},{
+			"schedule_time": "2021-05-19 21:54:02",
+			"slot": "L",
+			"item_date": "2021-05-20"
+		},{
+			"schedule_time": "2021-05-19 22:24:12",
+			"slot": "L",
+			"item_date": "2021-05-20"
+		},{
+			"schedule_time": "2021-05-20 00:39:33",
+			"slot": "L",
+			"item_date": "2021-05-21"
+		},{
+			"schedule_time": "2021-05-20 00:40:49",
+			"slot": "L",
+			"item_date": "2021-05-20"
+		},{
+			"schedule_time": "2021-05-20 09:23:44",
+			"slot": "L",
+			"item_date": "2021-05-21"
+		},{
+			"schedule_time": "2021-05-20 10:27:16",
+			"slot": "L",
+			"item_date": "2021-05-21"
+		},{
+			"schedule_time": "2021-05-20 10:37:05",
+			"slot": "L",
+			"item_date": "2021-05-20"
+		},{
+			"schedule_time": "2021-05-20 13:08:32",
+			"slot": "D",
+			"item_date": "2021-05-20"
+		},{
+			"schedule_time": "2021-05-20 13:21:14",
+			"slot": "D",
+			"item_date": "2021-05-20"
+		},{
+			"schedule_time": "2021-05-21 14:51:54",
+			"slot": "D",
+			"item_date": "2021-05-21"
+		},{
+			"schedule_time": "2021-05-21 15:28:31",
+			"slot": "D",
+			"item_date": "2021-05-21"
+		},{
+			"schedule_time": "2021-05-21 22:16:15",
+			"slot": "L",
+			"item_date": "2021-05-22"
+		}
+	]
+}
